@@ -24,8 +24,7 @@ status-website:
   icon: https://glembin.pl/assets/img/glembinfavicon.png?h=75bebb116da98123a3309478158be0ee
   name: GLEMBIN™ Status
   introTitle: "**GLEMBIN™ Status** – the official uptime monitoring system for all GLEMBIN™ services."
-  introMessage: This page displays the **current operational status** of key services in the GLEMBIN™ ecosystem, including websites, tools, and platforms. All systems are monitored continuously to ensure maximum reliability and performance.
-
+  introMessage: This page displays the **current operational status** of key services in the GLEMBIN™ ecosystem, including websites, tools, and platforms.
   navbar:
     - title: Status
       href: /
