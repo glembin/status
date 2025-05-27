@@ -33,14 +33,10 @@ status-website:
     - title: Main Site
       href: https://glembin.pl/
 introMessage: >
-  This page displays the **current operational status** of key services in the GLEMBIN™ ecosystem, including websites, tools, and platforms.
-  All systems are monitored continuously to ensure maximum reliability and performance.
-
   **Service categories monitored:**
-  
-  🔹 GLEMBIN™ Brand & Core
-  🔸 Projects powered by GLEMBIN™  
-  ⚫ Personal Infrastructure
+  xd GLEMBIN™ Brand & Core
+  xd Projects powered by GLEMBIN™  
+  xd Personal Infrastructure
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
