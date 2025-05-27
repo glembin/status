@@ -4,18 +4,15 @@ repo: status # The name of this repository
 
 sites:
   - name: 🔹GLEMBIN™ Brand & Infrastructure
-    url: https://www.google.com
-  - name: Ekstrakorki
+    url: https://glembin.pl/
+  - name: 🔸 Project under GLEMBIN™ - Ekstrakorki.pl
     url: https://ekstrakorki.pl/
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: 🔸 Project under GLEMBIN™ - korki.nglembin.pl
+    url: https://www.korki.nglembin.pl/
+  - name: 🔸 Project under GLEMBIN™ - strony.nglembin.pl
+    url: https://www.strony.nglembin.pl/
+  - name: ⚫ Personal Infrastructure
+    url: https://nglembin.pl/
 
 status-website:
   theme: night
@@ -32,11 +29,7 @@ status-website:
       href: /
     - title: Main Site
       href: https://glembin.pl/
-introMessage: >
-  **Service categories monitored:**
-  xd GLEMBIN™ Brand & Core
-  xd Projects powered by GLEMBIN™  
-  xd Personal Infrastructure
+introMessage: This page displays the **current operational status** of key services in the GLEMBIN™ ecosystem, including websites, tools, and platforms. All systems are monitored continuously to ensure maximum reliability and performance.
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
