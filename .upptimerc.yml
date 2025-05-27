@@ -21,8 +21,8 @@ status-website:
   theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: status.glembin.com
-  baseUrl: /status
+  cname: status.glembin.pl
+  #baseUrl: /status
   logoUrl: assets/glembinicon.png
   name: GLEMBIN™ Status
   introTitle: "**GLEMBIN™ Status** – the official uptime monitoring system for all GLEMBIN™ services."
@@ -31,7 +31,7 @@ status-website:
     - title: Status
       href: /
     - title: Main Site
-      href: https://glembin.com/
+      href: https://glembin.pl/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
