@@ -23,8 +23,8 @@ status-website:
   logoUrl: https://glembin.pl/assets/img/glembinfavicon.png?h=75bebb116da98123a3309478158be0ee
   icon: https://glembin.pl/assets/img/glembinfavicon.png?h=75bebb116da98123a3309478158be0ee
   name: GLEMBIN™ Status
-  introTitle: "**GLEMBIN™ Status** – real-time monitoring across the entire GLEMBIN™ ecosystem."
-  introMessage: This page displays the current operational status of all **GLEMBIN™ services**, including **core infrastructure**, **public websites**, **internal tools**, and **automation bots** – monitored continuously to ensure stability and performance.
+  introTitle: "**GLEMBIN™ Status** – real-time monitoring across the entire GLEMBIN ecosystem."
+  introMessage: This page displays the current operational status of all **GLEMBIN services**, including **core infrastructure**, **public websites**, **internal tools**, and **automation bots** – monitored continuously to ensure stability and performance.
   navbar:
     - title: Status
       href: /
