@@ -8,9 +8,9 @@ sites:
   - name: 🔸 Project under GLEMBIN™ - Ekstrakorki.pl
     url: https://ekstrakorki.pl/
   - name: 🔸 Project under GLEMBIN™ - korki.nglembin.pl
-    url: https://www.korki.nglembin.pl/
+    url: https://korki.nglembin.pl/
   - name: 🔸 Project under GLEMBIN™ - strony.nglembin.pl
-    url: https://www.strony.nglembin.pl/
+    url: https://strony.nglembin.pl/
   - name: ⚫ Personal Infrastructure
     url: https://nglembin.pl/
 
@@ -24,12 +24,12 @@ status-website:
   icon: https://glembin.pl/assets/img/glembinfavicon.png?h=75bebb116da98123a3309478158be0ee
   name: GLEMBIN™ Status
   introTitle: "**GLEMBIN™ Status** – the official uptime monitoring system for all GLEMBIN™ services."
+  introMessage: This page displays the **current operational status** of key services in the GLEMBIN™ ecosystem, including websites, tools, and platforms. All systems are monitored continuously to ensure maximum reliability and performance.
+
   navbar:
     - title: Status
       href: /
     - title: Main Site
       href: https://glembin.pl/
-introMessage: This page displays the **current operational status** of key services in the GLEMBIN™ ecosystem, including websites, tools, and platforms. All systems are monitored continuously to ensure maximum reliability and performance.
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
