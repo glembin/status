@@ -3,15 +3,15 @@ owner: nglembin # Your GitHub organization or username, where this repository li
 repo: status # The name of this repository
 
 sites:
-  - name: 🔹GLEMBIN™ Brand & Infrastructure
+  - name: 🟦 GLEMBIN™ Brand & Infrastructure
     url: https://glembin.pl/
-  - name: 🔸 Project under GLEMBIN™ - Ekstrakorki.pl
+  - name: 🟧 Project under GLEMBIN™ - Ekstrakorki.pl
     url: https://ekstrakorki.pl/
-  - name: 🔸 Project under GLEMBIN™ - korki.nglembin.pl
+  - name: 🟧 Project under GLEMBIN™ - korki.nglembin.pl
     url: https://korki.nglembin.pl/
-  - name: 🔸 Project under GLEMBIN™ - strony.nglembin.pl
+  - name: 🟧 Project under GLEMBIN™ - strony.nglembin.pl
     url: https://strony.nglembin.pl/
-  - name: ⚫ Personal Infrastructure
+  - name: 🟪 Personal Infrastructure
     url: https://nglembin.pl/
 
 status-website:
