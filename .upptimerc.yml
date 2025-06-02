@@ -4,17 +4,17 @@ repo: status # The name of this repository
 
 sites:
   - name: 💼 GLEMBIN™ Brand & Infrastructure
-    url: https://glembindd.pl/
+    url: https://glembin.pl/
   - name: 📚 GLEMBIN™ Edu - Ekstrakorki.pl (Educational Portal)
     url: https://ekstrakorki.pl/
   - name: 📚 GLEMBIN™ Edu - Personal Education Platform
     url: https://korki.nglembin.pl/
   - name: 🧩 Project under GLEMBIN™ - Responsive Web Development Service
-    url: https://strony.nglembindd.pl/
+    url: https://strony.nglembin.pl/
   - name: 🧪 Personal Infrastructure & Testbed
     url: https://nglembin.pl/
   - name: 📈 Status Site
-    url: https://statusdd.nglembin.pl/    
+    url: https://status.nglembin.pl/    
 
 status-website:
   theme: night
