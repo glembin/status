@@ -14,7 +14,7 @@ sites:
   - name: 🧪 Personal Infrastructure & Testbed
     url: https://nglembin.pl/
   - name: 📈 Status Site
-    url: https://status.nglembin.pl/    
+    url: https://status.glembin.pl/
 
 status-website:
   theme: night
