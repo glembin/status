@@ -22,7 +22,7 @@ on:
     types: [graphs]
   workflow_dispatch:
 
-  permissions:
+permissions:
   contents: read
   actions: write
   
