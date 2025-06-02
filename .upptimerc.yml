@@ -12,9 +12,9 @@ sites:
   - name: 🧩 Project under GLEMBIN™ - Responsive Web Development Service
     url: https://strony.nglembind.pl/
   - name: 🧪 Personal Infrastructure & Testbed
-    url: https://nglembind.pl/
+    url: https://nglembin.pl/
   - name: 📈 Status Site
-    url: https://status.nglembin.pl/    
+    url: https://statusd.nglembin.pl/    
 
 status-website:
   theme: night
