@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/glembin.pl.ico",
     "slug": "glembin-brand-and-infrastructure",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
-    "time": 209,
-    "timeDay": 98,
-    "timeWeek": 172,
-    "timeMonth": 204,
-    "timeYear": 209,
+    "uptimeYear": "99.89%",
+    "time": 208,
+    "timeDay": 184,
+    "timeWeek": 141,
+    "timeMonth": 206,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2025-06-02": 61
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 191,
-    "timeDay": 121,
-    "timeWeek": 142,
-    "timeMonth": 189,
-    "timeYear": 191,
+    "time": 192,
+    "timeDay": 216,
+    "timeWeek": 150,
+    "timeMonth": 192,
+    "timeYear": 192,
     "dailyMinutesDown": {
       "2025-06-02": 30
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 222,
-    "timeDay": 212,
-    "timeWeek": 159,
-    "timeMonth": 216,
-    "timeYear": 222,
+    "time": 218,
+    "timeDay": 79,
+    "timeWeek": 145,
+    "timeMonth": 215,
+    "timeYear": 218,
     "dailyMinutesDown": {
       "2025-06-02": 30
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 125,
-    "timeWeek": 172,
+    "time": 202,
+    "timeDay": 121,
+    "timeWeek": 166,
     "timeMonth": 197,
-    "timeYear": 204,
+    "timeYear": 202,
     "dailyMinutesDown": {}
   },
   {
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 298,
-    "timeDay": 93,
-    "timeWeek": 186,
+    "time": 293,
+    "timeDay": 123,
+    "timeWeek": 139,
     "timeMonth": 315,
-    "timeYear": 298,
+    "timeYear": 293,
     "dailyMinutesDown": {
       "2025-06-02": 30
     }
@@ -109,9 +109,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 204,
-    "timeDay": 216,
-    "timeWeek": 188,
-    "timeMonth": 197,
+    "timeDay": 222,
+    "timeWeek": 193,
+    "timeMonth": 201,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2025-06-02": 66
