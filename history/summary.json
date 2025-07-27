@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 199,
-    "timeDay": 169,
-    "timeWeek": 160,
-    "timeMonth": 177,
+    "timeDay": 181,
+    "timeWeek": 154,
+    "timeMonth": 170,
     "timeYear": 199,
     "dailyMinutesDown": {
       "2025-06-02": 61
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 188,
-    "timeDay": 184,
-    "timeWeek": 167,
-    "timeMonth": 174,
+    "timeDay": 191,
+    "timeWeek": 151,
+    "timeMonth": 175,
     "timeYear": 188,
     "dailyMinutesDown": {
       "2025-06-02": 30
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 203,
-    "timeDay": 176,
-    "timeWeek": 164,
-    "timeMonth": 172,
-    "timeYear": 203,
+    "time": 201,
+    "timeDay": 78,
+    "timeWeek": 147,
+    "timeMonth": 169,
+    "timeYear": 201,
     "dailyMinutesDown": {
       "2025-06-02": 30
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 192,
-    "timeDay": 170,
-    "timeWeek": 206,
-    "timeMonth": 174,
-    "timeYear": 192,
+    "time": 190,
+    "timeDay": 87,
+    "timeWeek": 191,
+    "timeMonth": 171,
+    "timeYear": 190,
     "dailyMinutesDown": {}
   },
   {
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 254,
-    "timeDay": 189,
-    "timeWeek": 190,
-    "timeMonth": 189,
-    "timeYear": 254,
+    "time": 253,
+    "timeDay": 186,
+    "timeWeek": 172,
+    "timeMonth": 180,
+    "timeYear": 253,
     "dailyMinutesDown": {
       "2025-06-02": 30
     }
@@ -103,13 +103,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.glembin.pl.ico",
     "slug": "status-site",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
+    "uptimeYear": "99.92%",
     "time": 202,
-    "timeDay": 259,
+    "timeDay": 196,
     "timeWeek": 174,
     "timeMonth": 197,
     "timeYear": 202,
