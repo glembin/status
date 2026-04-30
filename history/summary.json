@@ -4,11 +4,11 @@
     "url": "https://glembin.pl/",
     "icon": "https://icons.duckduckgo.com/ip3/glembin.pl.ico",
     "slug": "glembin-brand-and-infrastructure",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.90%",
     "time": 260,
     "timeDay": 110,
@@ -16,6 +16,7 @@
     "timeMonth": 171,
     "timeYear": 260,
     "dailyMinutesDown": {
+      "2026-04-30": 3,
       "2025-11-18": 176,
       "2025-07-27": 262,
       "2025-06-02": 61
@@ -110,9 +111,9 @@
     "url": "https://status.glembin.pl/",
     "icon": "https://icons.duckduckgo.com/ip3/status.glembin.pl.ico",
     "slug": "status-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.94%",
@@ -122,6 +123,7 @@
     "timeMonth": 205,
     "timeYear": 253,
     "dailyMinutesDown": {
+      "2026-04-30": 0,
       "2026-04-16": 64,
       "2025-11-18": 176,
       "2025-06-02": 66
