@@ -11,7 +11,7 @@ sites:
     url: https://korki.nglembin.pl/
   - name: 🧪 Personal site
     url: https://nglembin.pl/
-  - name: 📈 Status Site
+  - name: 📈 Status site
     url: https://status.glembin.pl/
 
 status-website:
