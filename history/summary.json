@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 269,
-    "timeWeek": 269,
-    "timeMonth": 269,
-    "timeYear": 269,
+    "time": 284,
+    "timeDay": 284,
+    "timeWeek": 284,
+    "timeMonth": 284,
+    "timeYear": 284,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 136,
-    "timeWeek": 136,
-    "timeMonth": 136,
-    "timeYear": 136,
+    "time": 163,
+    "timeDay": 163,
+    "timeWeek": 163,
+    "timeMonth": 163,
+    "timeYear": 163,
     "dailyMinutesDown": {}
   },
   {
@@ -46,34 +46,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 273,
-    "timeDay": 141,
-    "timeWeek": 160,
+    "time": 272,
+    "timeDay": 162,
+    "timeWeek": 165,
     "timeMonth": 213,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2025-07-27": 260,
       "2025-11-18": 176
-    }
-  },
-  {
-    "name": "🎮 GLEMBIN™ Games - LAST BLINK",
-    "url": "https://lastblink.gg/",
-    "icon": "https://icons.duckduckgo.com/ip3/lastblink.gg.ico",
-    "slug": "glembin-games-last-blink",
-    "status": "down",
-    "uptime": "50.75%",
-    "uptimeDay": "50.75%",
-    "uptimeWeek": "50.75%",
-    "uptimeMonth": "50.75%",
-    "uptimeYear": "50.75%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-07-16": 0
     }
   },
   {
@@ -88,8 +68,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 271,
-    "timeDay": 269,
-    "timeWeek": 213,
+    "timeDay": 240,
+    "timeWeek": 210,
     "timeMonth": 189,
     "timeYear": 271,
     "dailyMinutesDown": {
@@ -109,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 244,
-    "timeDay": 233,
-    "timeWeek": 209,
-    "timeMonth": 229,
+    "timeDay": 217,
+    "timeWeek": 207,
+    "timeMonth": 228,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2025-11-18": 176,
