@@ -24,7 +24,7 @@ status-website:
   icon: https://glembin.pl/assets/img/glembinfavicon.png?h=75bebb116da98123a3309478158be0ee
   name: GLEMBIN™ Status
   introTitle: "**GLEMBIN Website Status**"
-  introMessage: Check the real-time status of GLEMBIN websites, scheduled maintenance, and any ongoing incidents.
+  introMessage: Check the real-time status of GLEMBIN websites and any active incidents.
   navbar:
     - title: Status
       href: /
