@@ -9,9 +9,9 @@ sites:
     url: https://ekstrakorki.pl/
   - name: 📚 GLEMBIN™ Edu - Personal Education Platform
     url: https://korki.nglembin.pl/
-  - name: 🧪 Personal site
+  - name: 🧪 Personal Site
     url: https://nglembin.pl/
-  - name: 📈 Status site
+  - name: 📈 Status Site
     url: https://status.glembin.pl/
 
 status-website:
