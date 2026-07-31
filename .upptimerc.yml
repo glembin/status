@@ -20,8 +20,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.glembin.pl
   #baseUrl: /status
-  logoUrl: https://glembin.pl/assets/img/glembinfavicon.png?h=75bebb116da98123a3309478158be0ee
-  icon: https://glembin.pl/assets/img/glembinfavicon.png?h=75bebb116da98123a3309478158be0ee
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: GLEMBIN™ Status
   introTitle: "**GLEMBIN Website Status**"
   introMessage: Check the real-time status of GLEMBIN websites and any active incidents.
