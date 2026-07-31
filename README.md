@@ -1,6 +1,6 @@
 # [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Nikodem (nyyn)](https://nglembin.pl), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Nikodem](https://nglembin.pl), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/glembin/status/workflows/Uptime%20CI/badge.svg)](https://github.com/glembin/status/actions/workflows/uptime.yml)
 [![Response Time CI](https://github.com/glembin/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/glembin/status/actions/workflows/response-time.yml)
