@@ -3,13 +3,13 @@ owner: glembin # Your GitHub organization or username, where this repository liv
 repo: status # The name of this repository
 
 sites:
-  - name: 💼 GLEMBIN™ Business - glembin.pl/glembin.com
+  - name: 💼 GLEMBIN™ Business - glembin.pl / glembin.com
     url: https://glembin.pl/
-  - name: 📚 GLEMBIN™ Edu - Ekstrakorki.pl
+  - name: 🧠 GLEMBIN™ Edu - Ekstrakorki.pl
     url: https://ekstrakorki.pl/
-  - name: 📚 GLEMBIN™ Edu - Personal Education Platform
+  - name: 🎓 GLEMBIN™ Edu - Personal Tutoring Website
     url: https://korki.nglembin.pl/
-  - name: 🧪 Personal Site
+  - name: 🏠 Personal Site
     url: https://nglembin.pl/
   - name: 📈 Status Site
     url: https://status.glembin.pl/
