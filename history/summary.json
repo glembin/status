@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 246,
-    "timeWeek": 246,
-    "timeMonth": 246,
-    "timeYear": 246,
+    "time": 233,
+    "timeDay": 289,
+    "timeWeek": 233,
+    "timeMonth": 233,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 207,
-    "timeWeek": 207,
-    "timeMonth": 207,
-    "timeYear": 207,
+    "time": 197,
+    "timeDay": 67,
+    "timeWeek": 199,
+    "timeMonth": 197,
+    "timeYear": 197,
     "dailyMinutesDown": {}
   },
   {
@@ -45,14 +45,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.97%",
     "time": 272,
-    "timeDay": 191,
-    "timeWeek": 166,
-    "timeMonth": 210,
-    "timeYear": 280,
+    "timeDay": 156,
+    "timeWeek": 203,
+    "timeMonth": 223,
+    "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-07-27": 260,
       "2025-11-18": 176
     }
   },
@@ -62,17 +61,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nglembin.pl.ico",
     "slug": "personal-site",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 228,
-    "timeWeek": 228,
-    "timeMonth": 228,
-    "timeYear": 228,
-    "dailyMinutesDown": {}
+    "uptime": "97.99%",
+    "uptimeDay": "70.86%",
+    "uptimeWeek": "95.84%",
+    "uptimeMonth": "97.99%",
+    "uptimeYear": "97.99%",
+    "time": 185,
+    "timeDay": 148,
+    "timeWeek": 180,
+    "timeMonth": 185,
+    "timeYear": 185,
+    "dailyMinutesDown": {
+      "2026-07-30": 420
+    }
   },
   {
     "name": "📈 Status Site",
@@ -83,17 +84,18 @@
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
-    "time": 244,
-    "timeDay": 194,
-    "timeWeek": 211,
-    "timeMonth": 231,
-    "timeYear": 249,
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.93%",
+    "time": 277,
+    "timeDay": 276,
+    "timeWeek": 194,
+    "timeMonth": 627,
+    "timeYear": 288,
     "dailyMinutesDown": {
       "2025-11-18": 176,
       "2026-04-16": 64,
-      "2026-04-30": 89
+      "2026-04-30": 89,
+      "2026-07-18": 45
     }
   }
 ]
